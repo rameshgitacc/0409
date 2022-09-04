@@ -10,4 +10,7 @@ public class Sample {
 
 		System.out.println("ram");
 	}
+	private void empDept() {
+        System.out.println("Tester");
+	}
 }
