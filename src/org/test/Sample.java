@@ -10,4 +10,7 @@ public class Sample {
 
 		System.out.println("ram");
 	}
+	private void empSalary() {
+         System.out.println("14000");
+	}
 }
